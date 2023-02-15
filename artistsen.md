@@ -8,6 +8,8 @@ permalink: /artists/
 
 ENG/[日本語](https://mumyo.org/ja/artists/)
 
+&nbsp;
+
 #### Akiko Yamane
 composer, born in Osaka in 1982. Studied composition at Kyoto City University of Arts. Influenced by materials, space, pop cultures, subcultures, games, and digital expression, Yamane transforms them into sounds with physical reality. Yamane is currently working on themes such as consumer society, pop, oppression, and kawaii. Yamane’s expressional core is “pop toxicity” which is one of the symbols of Japanese society in the 80s and 90s, and has been created by mass production, mass consumption, peer pressure and human desire. Yamane is also working on curating and creating places where people can listen deeply and share their own individual, small senses that are unique to each of us.
 
