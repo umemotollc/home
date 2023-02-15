@@ -15,5 +15,5 @@ This is a record of the "Gothic and Lolita" pre-concert held on December 11, 202
 
 videos QR:
 
-<img src="/c905bcc49e91ae8157aad97a558e4eaebe37eef8.png" width="20%">
+<img src="/c905bcc49e91ae8157aad97a558e4eaebe37eef8.png" width="40%">
 
