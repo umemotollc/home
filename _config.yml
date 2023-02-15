@@ -30,7 +30,7 @@ url: "https://mumyo.org" # the base hostname & protocol for your site, e.g. http
 ###twitter_username: jekyllrb
 ##github_username: mumyollc 
 youtube_username: "@mumyollc"
-twitter_username: "@mumyollc"
+twitter_username: "mumyollc"
 
 timezone: Asia/Tokyo
 
