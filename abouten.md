@@ -8,7 +8,7 @@ permalink: /about/
 
 ENG/[日本語](https://mumyo.org/ja/about/)
 
-"mumyo" is an artist collective and company of contemporary music consisting of composer [Akiko Yamane](/artists#AkikoYamane), [Yuri Umemoto](/artists#YuriUmemoto) and violinist [Tatsuki Narita](/artists#TatsukiNarita).
+"mumyo" is an artist collective and company of contemporary music consisting of composer [Akiko Yamane](/artists#Akiko-Yamane), [Yuri Umemoto](/artists#Yuri-Umemoto) and violinist [Tatsuki Narita](/artists#Tatsuki-Narita).
 
 The name "mumyo" was given by [Ryuichi Sakamoto](http://www.sitesakamoto.com/biography), based on the legend of the biwa, a Japanese lute, which appears in The Pillow Book.
 
