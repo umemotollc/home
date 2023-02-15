@@ -75,77 +75,96 @@
 </script>
 
 <div class="div">
-  <a href="https://mumyo.org/" class="a" data-el="a-1">mumyo</a>
+  <p>mumyo</p>
+  <p>
+    <a
+      href="https://linkco.re/ed82Cxge"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <strong><u>Gothic and Lolita</u></strong>
+    </a>
+  </p>
+  <p>
+    composed by
+    <a
+      href="https://www.yuriumemoto.com/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <u>Yuri Umemoto</u>
+    </a>
+    and
+    <a
+      href="https://akikoyamane.com/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <u>Akiko Yamane</u>
+    </a>
+  </p>
+  <p>
+    performed by
+    <a
+      href="https://tatsukinarita.com/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <u>Tatsuki Narita</u>
+    </a>
+  </p>
+  <p>mastering by Yuri Umemoto</p>
+  <p>
+    artwork:
+    <a
+      href="https://www.instagram.com/_nabe_chan_/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <u>NABEchan</u>
+    </a>
+  </p>
+  <p><br /></p>
+  <p>1. Ribbon flesh and blood and vapor</p>
+  <p>2. Pannier clothing, Aesthetic</p>
+  <p>3. Copy and paste, mass produced/consumed</p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;irregular/imperfectly shaped plastic pearls and Me.
+  </p>
+  <p>4. Embellish Me!</p>
+  <p>5. Bourrée with black ribbons</p>
+  <p>6. Ribbon Accumulation</p>
+  <p>7. Alice in Abandoned Akihabara 1</p>
+  <p>8. Alice in Abandoned Akihabara 2</p>
+  <p>9. Melt Me!</p>
 </div>
 <style>
   .div {
     display: flex;
     flex-direction: column;
     position: relative;
-    margin-top: -1px;
-    height: 55px;
-    background-color: rgba(255, 99, 214, 1);
-    padding-top: 0px;
-  }
-  .a {
-    display: flex;
-    flex-direction: column;
-    position: relative;
     margin-top: 20px;
-    appearance: none;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 25px;
-    padding-right: 25px;
-    background-color: rgba(0, 0, 0, 0);
-    color: white;
-    border-radius: 4px;
-    text-align: center;
-    cursor: pointer;
-    margin-right: auto;
-    text-decoration: underline;
-    font-family: "Helvetica", sans-serif;
-    font-size: 15px;
+    line-height: normal;
+    height: auto;
+    color: rgba(255, 255, 255, 1);
+    font-size: 10px;
+    font-family: "sans-serif", sans-serif;
   }
-  "logo" (max-width: 640px) {
-    .a {
-      font-size: 12px;
+  @media (max-width: 991px) {
+    .div {
+      padding-left: 59px;
+      margin-left: -1px;
+      margin-right: 29px;
+      margin-top: 22px;
+    }
+  }
+  @media (max-width: 640px) {
+    .div {
+      padding-left: 5px;
+      margin-right: 28px;
+      margin-left: -1px;
+      padding-right: 0px;
+      font-size: 6px;
     }
   }
 </style>
-<script>
-  (() => {
-    const state = {};
-
-    let context = null;
-    let nodesToDestroy = [];
-    let pendingUpdate = false;
-
-    function destroyAnyNodes() {
-      // destroy current view template refs before rendering again
-      nodesToDestroy.forEach((el) => el.remove());
-      nodesToDestroy = [];
-    }
-
-    // Function to update data bindings and loops
-    // call update() when you mutate state and need the updates to reflect
-    // in the dom
-    function update() {
-      if (pendingUpdate === true) {
-        return;
-      }
-      pendingUpdate = true;
-
-      document.querySelectorAll("[data-el='a-1']").forEach((el) => {
-        el.setAttribute("openLinkInNewTab", false);
-      });
-
-      destroyAnyNodes();
-
-      pendingUpdate = false;
-    }
-
-    // Update with initial state on first load
-    update();
-  })();
-</script>
