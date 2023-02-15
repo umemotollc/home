@@ -33,7 +33,7 @@ Selected Activities
 
 &nbsp;
 
-#### 梅本佑利
+#### Yuri Umemoto
 Composer born in Tokyo in 2002, debuted in 2018. He has worked with prominent performers of contemporary music in Japan and abroad, creating works that connect Western music and Japanese subcultures. His collaborative works include the orchestral piece "Oo./x" with composer Akiko Yamane, a collaboration with graphic artist Lee Kan kyo, and a new piece developed in collaboration with Yamaha Corporation. He has been Born Creative Festival (2019, Tokyo Metropolitan Theater), BBC Proms Young Composer (2020) Endless Imaginary (2021, Rhizomatiks), Tokyo Music Evening Yube (2021), Sendai Classic Festival (2021), Spring Festival in Tokyo (2022), Kanagawa Prefectural Music Hall project, Among others performed at many festivals and events. he held his first solo exhibition in Tokyo. He graduated from Tokyo College of Music High School and is currently a student at Aichi Prefectural University of Fine Arts and Music (composition).
 
 Selected Activities
@@ -50,7 +50,7 @@ Selected Activities
 
 &nbsp;
 
-#### 成田達輝
+#### Tatsuki Narita
 violinist, born in 1992. Narita has performed with many orchestras and conductors, including Petr Altrichter, Augustin Dumay, and Pietari Inkinen. Narita collaborates frequently with contemporary composers, he has worked with Toshi Ichiyanagi, Ryuichi Sakamoto, and many composers. In November 2017, Narita gave the world premiere of Toshi Ichiyanagi's composition 'Double Concerto for Violin and Cello and Orchestra'. Narita plays the 1711 'Tartini' from the golden age of Stradivarius.
 
 Awards
