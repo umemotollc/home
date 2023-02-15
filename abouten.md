@@ -6,7 +6,7 @@ permalink: /about/
 
 &nbsp;
 
-EN/[日本語](https://mumyo.org/ja/about/)
+ENG/[日本語](https://mumyo.org/ja/about/)
 
 "mumyo" is an artist collective and company of contemporary music consisting of composer Akiko Yamane, Yuri Umemoto and violinist Tatsuki Narita.
 
