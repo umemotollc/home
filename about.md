@@ -7,7 +7,7 @@ permalink: /ja/about/
 &nbsp;
 
 
-日本語/[ENG](https://mumyo.org/about/)
+[ENG](https://mumyo.org/about/)/日本語
 
 mumyo（ムミョウ）は、作曲家の[山根明季子](/artists#山根明季子)、[梅本佑利](/artists#梅本佑利)、ヴァイオリニストの[成田達輝](/artists#成田達輝)からなる、現代音楽のアーティストコレクティブ、芸術商社です。
 
