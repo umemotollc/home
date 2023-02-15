@@ -13,5 +13,7 @@ This is a record of the "Gothic and Lolita" pre-concert held on December 11, 202
 
 - [Gothic and Lolita (pre concert) 11 Dec 2022 videos](https://www.youtube.com/watch?v=kt1oM0ZX4Gw&list=PL06XdiJBdmd9mPNI5BH8qJJu7YydO_fwr&index=1)  (YouTube 2022-12-14 upload) 
 
-![videos QR](/c905bcc49e91ae8157aad97a558e4eaebe37eef8.png)
+videos QR:
+
+<img src="/c905bcc49e91ae8157aad97a558e4eaebe37eef8.png" width="20%">
 
