@@ -21,7 +21,7 @@ The name "mumyo" was given by [Ryuichi Sakamoto](http://www.sitesakamoto.com/bio
 
 #### mumyo llc
 Resona Kudan Building 5F
-1-5-6 Kudamminami,
+1-5-6 Kudanminami,
 Chiyoda-ku, Tokyo-to 102-0074
 Japan  
 Email: q@mumyo.org  
