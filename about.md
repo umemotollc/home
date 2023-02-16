@@ -23,17 +23,16 @@ mumyo（ムミョウ）は、作曲家の[山根明季子](/ja/artists#山根明
 &nbsp;
 
 #### 合同会社無名
-
-- 商号 合同会社無名 / mumyo llc
-- 本店所在地 東京都千代田区九段南1-5-6りそな九段ビル5階
-- 電子メール q (アットマーク) mumyo.org
-- 法人番号 [3010003039024](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=3010003039024)
-- 設立 2022年(令和4年)11月7日
+商号: 合同会社無名 / mumyo llc  
+本店所在地: 東京都千代田区九段南1-5-6りそな九段ビル5階  
+電子メール: q (アットマーク) mumyo.org  
+法人番号: [3010003039024](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=3010003039024)  
+設立: 2022年(令和4年)11月7日  
 
 #### 業務の概要
 当社は、コンサートの主催及び音楽に関する知的財産権の管理を行う。
 
 #### 役員
-* 業務執行社員　[山根明季子（作曲家）](https://akikoyamane.com)
-* 業務執行社員、代表社員　[梅本佑利（作曲家）](https://www.yuriumemoto.com)
-* 業務執行社員、代表社員　[梅本合同会社](https://home.umemoto.org) 職務執行者  梅本聖（バックオフィス業務）
+業務執行社員　[山根明季子（作曲家）](https://akikoyamane.com)  
+業務執行社員、代表社員　[梅本佑利（作曲家）](https://www.yuriumemoto.com)  
+業務執行社員、代表社員　[梅本合同会社](https://home.umemoto.org) 職務執行者  梅本聖（バックオフィス業務）  
