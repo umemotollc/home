@@ -20,14 +20,10 @@ The name "mumyo" was given by [Ryuichi Sakamoto](http://www.sitesakamoto.com/bio
 &nbsp;
 
 #### mumyo llc
-
 Resona Kudan Building 5F
 1-5-6 Kudamminami,
 Chiyoda-ku, Tokyo-to 102-0074
-Japan
-
-Email: mumyo.org
-
-Japan Corporate Number: [3010003039024](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=3010003039024)
-
+Japan  
+Email: q@mumyo.org  
+Japan Corporate Number: [3010003039024](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=3010003039024)  
 Established: November 7, 2022
