@@ -35,8 +35,6 @@ permalink: /ja/artists/
 
 &nbsp;
 
-&nbsp;
-
 <img src="umemoto_s.jpg" width="30%">
 
 <details>
@@ -54,8 +52,6 @@ permalink: /ja/artists/
 
 [yuriumemoto.com](https://www.yuriumemoto.com/)
 </details>
-
-&nbsp;
 
 &nbsp;
 
