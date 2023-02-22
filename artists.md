@@ -10,7 +10,7 @@ permalink: /ja/artists/
 
 &nbsp;
 
-<img src="yamanes.jpg" width="40%"/>
+<img src="yamanes.jpg" width="300"/>
 
 ### 山根明季子
   
@@ -34,7 +34,7 @@ permalink: /ja/artists/
 
 &nbsp;
 
-<img src="umemotos.jpg" width="40%"/>
+<img src="umemotos.jpg" width="300"/>
 
 ### 梅本佑利
   
@@ -53,7 +53,7 @@ permalink: /ja/artists/
 
 &nbsp;
 
-<img src="naritas.jpg" width="40%"/>
+<img src="naritas.jpg" width="300"/>
 
 ### 成田達輝
 
