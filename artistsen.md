@@ -10,7 +10,7 @@ ENG/[日本語](https://mumyo.org/ja/artists/)
 
 &nbsp;
 
-<img src="yamane_s.jpg" width="40%" />
+<img src="yamanes.jpg" width="40%" />
 
 ### Akiko Yamane
   
@@ -37,7 +37,7 @@ composer, born in Osaka in 1982. Studied composition at Kyoto City University of
 
 &nbsp;
 
-<img src="umemoto_s.jpg" width="40%" />
+<img src="umemotos.jpg" width="40%" />
 
 ### Yuri Umemoto
 
@@ -58,7 +58,7 @@ Composer born in Tokyo in 2002, debuted in 2018. He has worked with prominent pe
 
 &nbsp;
 
-<img src="narita_s.jpg" width="40%" />
+<img src="naritas.jpg" width="40%" />
 
 ### Tatsuki Narita
   
