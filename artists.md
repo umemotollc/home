@@ -10,7 +10,7 @@ permalink: /ja/artists/
 
 &nbsp;
 
-<img src="yamane_s.PNG" width="40%">
+<img src="yamane_s.jpg" width="40%">
 
 ### 山根明季子
   
