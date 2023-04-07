@@ -3,6 +3,7 @@ layout: page
 title: Gothic and Lolita
 permalink: /gothicandlolita/
 ---
+#### ゴシック・アンド・ロリータ
 
 <img src="/logogl.PNG" width="20%">
 
