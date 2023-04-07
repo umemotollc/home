@@ -15,7 +15,7 @@ permalink: /gothicandlolita/
 
 &nbsp;
 
-[<img src="/cdgl.PNG" width="100%">](https://mumyollc.stores.jp/items/642539246cb68c002982ce75)
+[<img src="/cdgl1.PNG" width="100%">](https://mumyollc.stores.jp/items/642539246cb68c002982ce75)
 [CD album 購入](https://mumyollc.stores.jp/items/642539246cb68c002982ce75)  
 **¥2,750**  
 (Japan or international shipping)
