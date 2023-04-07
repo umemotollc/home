@@ -40,12 +40,12 @@ illustration: NABEchan
 
 &nbsp;
 
-<img src="/1.png" width="30%"><img src="/2.png" width="30%">
+<img src="/1.png" width="30%"> <img src="/2.png" width="30%">
 
 &nbsp;
 
 Concert "Gothic and Lolita"
 April 2, 2023 in Tokyo, Japan
 
-<img src="/glc6.JPG" width="40%"><img src="/glc2.JPG" width="40%"><img src="/glc3.JPG" width="40%"><img src="/glc4.JPG" width="40%"><img src="/glc5.JPG" width="40%">
-Photos: (c) Ayano Sudo
+<img src="/glc6.JPG" width="40%"> <img src="/glc2.JPG" width="40%"> <img src="/glc3.JPG" width="40%"> <img src="/glc4.JPG" width="40%"> <img src="/glc5.JPG" width="40%">
+ Photos: (c) Ayano Sudo
