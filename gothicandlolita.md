@@ -5,7 +5,7 @@ permalink: /gothicandlolita/
 ---
 #### ゴシック・アンド・ロリータ
 
-<img src="/logogl.PNG" width="40%">
+<img src="/logogl.PNG" width="45%">
 
 &nbsp;
 
@@ -40,12 +40,13 @@ illustration: NABEchan
 
 &nbsp;
 
-<img src="/1.png" width="50%"> <img src="/2.png" width="50%">
+<img src="/1.png" width="70%"> <img src="/2.png" width="70%">
 
 &nbsp;
 
 Concert "Gothic and Lolita"
 April 2, 2023 in Tokyo, Japan
 
-<img src="/glc6.JPG" width="60%"> <img src="/glc2.JPG" width="60%"> <img src="/glc3.JPG" width="60%"> <img src="/glc4.JPG" width="60%"> <img src="/glc5.JPG" width="60%">
- Photos: (c) Ayano Sudo
+<img src="/glc6.JPG" width="80%"> <img src="/glc2.JPG" width="80%"> <img src="/glc3.JPG" width="80%"> <img src="/glc4.JPG" width="80%"> <img src="/glc5.JPG" width="80%">
+
+Photos: (c) Ayano Sudo
