@@ -9,7 +9,7 @@ permalink: /gothicandlolita/
 
 &nbsp;
 
-[<img src="/jakegl.PNG" width="60%">](https://linkco.re/ed82Cxge)
+[<img src="/jakegl.PNG" width="100%">](https://linkco.re/ed82Cxge)
 
 [Stream links 配信](https://linkco.re/ed82Cxge?lang=en)
 
@@ -47,6 +47,6 @@ illustration: NABEchan
 Concert "Gothic and Lolita"
 April 2, 2023 in Tokyo, Japan
 
-<img src="/glc6.JPG" width="80%"> <img src="/glc2.JPG" width="80%"> <img src="/glc3.JPG" width="80%"> <img src="/glc4.JPG" width="80%"> <img src="/glc5.JPG" width="80%">
+<img src="/glc6.JPG" width="100%"> <img src="/glc2.JPG" width="100%"> <img src="/glc3.JPG" width="100%"> <img src="/glc4.JPG" width="100%"> <img src="/glc5.JPG" width="100%">
 
 Photos: (c) Ayano Sudo
