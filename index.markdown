@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[<img src="jakegl.PNG" width="30%">](https://linkco.re/ed82Cxge)
+[<img src="/logogl.PNG" width="20%">](https://mumyo.org/gothicandlolita/)
