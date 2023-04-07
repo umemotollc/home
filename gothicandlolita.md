@@ -4,17 +4,17 @@ title: Gothic and Lolita
 permalink: /gothicandlolita/
 ---
 
-<img src="logogl.PNG" width="20%">
+<img src="/logogl.PNG" width="20%">
 
 &nbsp;
 
-[<img src="jakegl.PNG" width="30%">](https://linkco.re/ed82Cxge)
+[<img src="/jakegl.PNG" width="30%">](https://linkco.re/ed82Cxge)
 
 [Stream links 配信](https://linkco.re/ed82Cxge?lang=en)
 
 &nbsp;
 
-[<img src="cdgl.PNG" width="100%">](https://mumyollc.stores.jp/items/642539246cb68c002982ce75)
+[<img src="/cdgl.PNG" width="100%">](https://mumyollc.stores.jp/items/642539246cb68c002982ce75)
 [CD album 購入](https://mumyollc.stores.jp/items/642539246cb68c002982ce75)  
 **¥2,750**  
 (Japan or international shipping)
@@ -39,12 +39,12 @@ illustration: NABEchan
 
 &nbsp;
 
-<img src="1.png" width="30%"><img src="2.png" width="30%">
+<img src="/1.png" width="30%"><img src="/2.png" width="30%">
 
 &nbsp;
 
 Concert "Gothic and Lolita"
 April 2, 2023 in Tokyo, Japan
 
-<img src="glc6.JPG" width="40%"><img src="glc2.JPG" width="40%"><img src="glc3.JPG" width="40%"><img src="glc4.JPG" width="40%"><img src="glc5.JPG" width="40%">
+<img src="/glc6.JPG" width="40%"><img src="/glc2.JPG" width="40%"><img src="/glc3.JPG" width="40%"><img src="/glc4.JPG" width="40%"><img src="/glc5.JPG" width="40%">
 Photos: (c) Ayano Sudo
