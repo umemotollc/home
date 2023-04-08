@@ -45,7 +45,11 @@ illustration: NABEchan
 &nbsp;
 
 Concert "Gothic and Lolita"
-April 2, 2023 in Tokyo, Japan
+April 2, 2023 in Tokyo, Japan  
+
+&nbsp;
+
+演奏会プログラムノート[[PDF]](https://mumyo.org/20230402_gothic_and_lolita/booklet/20230325_GL_booklet_for_web.pdf)
 
 <img src="/glc6.JPG" width="100%"> <img src="/glc2.JPG" width="100%"> <img src="/glc3.JPG" width="100%"> <img src="/glc4.JPG" width="100%"> <img src="/glc5.JPG" width="100%">
 
