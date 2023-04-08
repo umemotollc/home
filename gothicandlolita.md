@@ -44,7 +44,7 @@ illustration: NABEchan
 
 &nbsp;
 
-Concert "Gothic and Lolita"
+#### Concert "Gothic and Lolita"
 April 2, 2023 in Tokyo, Japan  
 
 &nbsp;
@@ -54,3 +54,11 @@ April 2, 2023 in Tokyo, Japan
 <img src="/glc6.JPG" width="100%"> <img src="/glc2.JPG" width="100%"> <img src="/glc3.JPG" width="100%"> <img src="/glc4.JPG" width="100%"> <img src="/glc5.JPG" width="100%">
 
 Photos: (c) Ayano Sudo
+
+#### 「ゴシック･アンド･ロリータ」東京公演  
+会場: [BUoY](https://buoy.or.jp/about/#access)  
+出演:　成田達輝（ヴァイオリニスト）  
+作曲:　梅本佑利、山根明季子  
+イラスト:　NABEchan  
+主催: mumyo llc  
+助成: [公益財団法人榎本文化財団（令和４年度フレッシュアーティスト助成制度）](https://enomoto-bunka.or.jp/) / [公益財団法人東京都歴史文化財団 アーツカウンシル東京 (令和4年度第4回スタートアップ助成)](https://www.artscouncil-tokyo.jp/) / [公益財団法人光山文化財団(令和４年度音楽振興助成制度)](http://kohyama-bunka.or.jp/) 
