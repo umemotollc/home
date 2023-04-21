@@ -36,3 +36,5 @@ mumyo（ムミョウ）は、作曲家の[山根明季子](/ja/artists#山根明
 業務執行社員　[山根明季子（作曲家）](https://akikoyamane.com)  
 業務執行社員、代表社員　[梅本佑利（作曲家）](https://www.yuriumemoto.com)  
 業務執行社員、代表社員　[梅本合同会社](https://home.umemoto.org) 職務執行者  梅本聖（バックオフィス業務）  
+
+![IPA SECURITY ACTION セキュリティ対策自己宣言](/docs/security_action_hitotsuboshi-small_bw.png "IPA SECURITY ACTION")
