@@ -1,40 +1,50 @@
 ---
 layout: page
-title: mumyoと合同会社無名
-permalink: /about/
+title: 梅本合同会社
+permalink: /about-llc/
 ---
 
-## mumyo
+# 梅本合同会社
 
-### 構成員
+商品の購入に関するご質問・問い合わせは、各販売チャネル（ショッピングサイト）でご案内している連絡先にお願いいたします。
+大口需要者向けの販売，卸売り，その他のご質問は、トップページの問い合わせフォーム又は電子メールで desk@umemoto . org 宛にお願いいたします。
 
-* [成田達輝](https://tatsukinarita.com/) (Vn.)
-* [山根明季子](https://akikoyamane.com/) (Comp.)
-* [梅本佑利](https://www.yuriumemoto.com/) (Comp.)
+## 会社概要
+- **商号** 梅本合同会社 (Umemoto LLC)
+- **設立** 2014年12月26日
+- **本店** 東京都千代田区九段南１－５－６ りそな九段ビル５階
+- **ファクシミリ** 050-3606-2007 
 
-## 名の由来
+### 法人番号及び事業者コード
+- **国税** 3010003021188
+- **商業登記** 0100-03-021188
+- **適格請求書発行事業者登録番号** T3010003021188
+- **GS1** 456041317XXXC
 
-　「mumyo」は、[坂本龍一氏（音楽家）](https://linktr.ee/skmtgram)による命名で、枕草子に登場する一条天皇の琵琶の故事（三巻本89段）に基づく。
+### 事業の目的
+- 電子部品及び電子機器の設計及び販売
+- 知的財産権（工業所有権等）の管理及び利用開発
+- 音楽著作物の制作，利活用  → https://www.yuriumemoto.com/
+- 録音物(CD、レコード）の制作および楽譜の販売
 
-無名といふ琵琶の御琴を上の持てわたらせたまへるに　見などして掻き鳴らしなどすと言へば　弾くにはあらで緒などを手まさぐりにして　これが名よいかにとかと聞えさするに　ただいとはかなく名もなしと　のたまはせたるは　なほいとめでたしとこそ覚えしか
+### 役員および実質的支配者
+- 代表社員 梅本聖  （電子メール HIJIRI @ UMEMOTO.ORG）
+- 業務執行社員 梅本佑利
+-（上記以外の実質的支配者なし）
 
-<a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pillow_Book_illustrated6.JPG"><img width="512" alt="Pillow Book illustrated6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pillow_Book_illustrated6.JPG/512px-Pillow_Book_illustrated6.JPG"></a> (出典：枕草子絵巻)
+### 関連企業（直接又は間接の資本関係）
+- 合同会社無名
 
+### 主な取引先
+- アマゾンジャパン合同会社 (http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)
+- Amazon Services International, Inc. (USA)
+- Tower Pro Pte Ltd. (中国) 
+- Tower Pro Pte Ltd. (シンガポール)
+- Adafruit Industries LLC (USA) 
+- Element14 Pte Ltd (Singapore)  
+- 教育機関、電子部品商社
+- 一般社団法人日本音楽著作権協会(JASRAC)
 
-## 合同会社無名
-
-- 商号 合同会社無名 / mumyo llc
-- 本店所在地 東京都千代田区九段南1-5-6りそな九段ビル5階
-- 電子メール q (アットマーク) mumyo.org
-- 法人番号 [3010003039024](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=3010003039024)
-- 設立 2022年(令和4年)11月7日
-
-### 業務の概要
-
-　当社は、コンサートの主催及び音楽に関する知的財産権の管理を行う。
-
-### 役員
-
-* 業務執行社員　[山根明季子（作曲家）](https://akikoyamane.com)
-* 業務執行社員、代表社員　[梅本佑利（作曲家）](https://www.yuriumemoto.com)
-* 業務執行社員、代表社員　[梅本合同会社](https://home.umemoto.org) 職務執行者  梅本聖（バックオフィス業務）
+### 取引金融機関
+- りそな銀行九段支店
+- 福岡銀行東京支店
