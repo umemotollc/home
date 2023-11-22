@@ -4,7 +4,6 @@ permalink: messageform
 title: 問い合わせ
 ---
 
-お問い合わせはこちらからどうぞ。
 
 <script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
 <style type="text/css" media="screen, projection">
