@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 著作物等使用許諾規定
-category: 取引条件
+categories: 取引条件
 //permalink: /legal/licensing
 ---
 
