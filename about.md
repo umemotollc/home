@@ -32,8 +32,8 @@ permalink: /about-llc/
 - 業務執行社員 [梅本佑利][yuriumemoto]
 -（上記以外の実質的支配者なし）
 
-### 関連企業（直接又は間接の資本関係）
-- 合同会社無名
+### 関連企業（直接の資本関係）
+- [合同会社無名][mumyo]
 
 ### 主な取引先
 - アマゾンジャパン合同会社 [(http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)][amazonseller]
@@ -49,6 +49,7 @@ permalink: /about-llc/
 - りそな銀行九段支店
 - 福岡銀行東京支店
 
+[mumyo]: https://mumyo.org/
 [yuriumemoto]: https://www.yuriumemoto.com/
 [amazonseller]: http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU
 
