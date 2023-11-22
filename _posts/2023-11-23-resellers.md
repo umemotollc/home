@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TOWER PRO 製品の真正品・偽造品の流通について
-categories: 知的財産権, 販売, サーボモータ
+categories: 知的財産権  販売  サーボモータ
 permalink: /merchandise/towerpro/resellers
 ---
 
