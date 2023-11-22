@@ -1,7 +1,7 @@
 ---
 layout: post
 title: サーボモータ、電子部品等販売条件
-category: 取引条件
+categories: 取引条件
 //permalink: /servomotor_sales_conditions
 ---
 
