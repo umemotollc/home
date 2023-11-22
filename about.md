@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 梅本合同会社
+title: about
 permalink: /about-llc/
 ---
 
