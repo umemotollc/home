@@ -24,19 +24,19 @@ permalink: /about-llc/
 ### 事業の目的
 - 電子部品及び電子機器の設計及び販売
 - 知的財産権（工業所有権等）の管理及び利用開発
-- 音楽著作物の制作，利活用  → https://www.yuriumemoto.com/
+- 音楽著作物の制作，利活用
 - 録音物(CD、レコード）の制作および楽譜の販売
 
 ### 役員および実質的支配者
 - 代表社員 梅本聖  （電子メール HIJIRI @ UMEMOTO.ORG）
-- 業務執行社員 梅本佑利
+- 業務執行社員 [梅本佑利][yuriumemoto]
 -（上記以外の実質的支配者なし）
 
 ### 関連企業（直接又は間接の資本関係）
 - 合同会社無名
 
 ### 主な取引先
-- アマゾンジャパン合同会社 (http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)
+- アマゾンジャパン合同会社 [(http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)][amazonseller]
 - Amazon Services International, Inc. (USA)
 - Tower Pro Pte Ltd. (中国) 
 - Tower Pro Pte Ltd. (シンガポール)
@@ -48,3 +48,7 @@ permalink: /about-llc/
 ### 取引金融機関
 - りそな銀行九段支店
 - 福岡銀行東京支店
+
+[yuriumemoto]: https://www.yuriumemoto.com/
+[amazonseller]: http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU
+
