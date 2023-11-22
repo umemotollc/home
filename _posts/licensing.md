@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 title: 著作物等使用許諾規定
 permalink: /legal/licensing
 ---
