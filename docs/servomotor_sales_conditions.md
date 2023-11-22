@@ -1,4 +1,11 @@
-# サーボモータ等販売条件
+---
+layout: page
+title: サーボモータ、電子部品等販売条件
+permalink: /servomotor_sales_conditions
+---
+
+
+# サーボモータ、電子部品等販売条件
 
 (2023年8月25日改定)
 
