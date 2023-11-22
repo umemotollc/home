@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: posts
 title: 著作物等使用許諾規定
 categories: 取引条件
-permalink: /licensing
 ---
 
 この規定は，当社がこれまで行ってきた著作物等使用許諾の条件をまとめたものを基に制定（いわゆる「リステイトメント」）したものです。
