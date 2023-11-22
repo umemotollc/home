@@ -1,5 +1,5 @@
 ---
-tytle: 証明書類の発行
+title: 証明書類の発行
 style: post
 permalink: certification
 categories: 取引条件
