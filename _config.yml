@@ -18,17 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mumyo	
-email: q@mumyo.org
+title: UMEMOTO LLC	
+email: desk@umemoto.org
 description: >- # this means to ignore newlines until "baseurl:"
-  mumyo (noun) 1. nameless, unnamed; 2. a group of musicians based in Japan 
-  who produces and performes a variety of contemporary musics since 2022.  
+  梅本合同会社 (C) UMEMOTO LLC, Tokyo, Japan.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mumyo.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://home.umemoto.org" # the base hostname & protocol for your site, e.g. http://example.com
 ###twitter_username: jekyllrb
 ##github_username: mumyollc 
-youtube_username: "@mumyo_"
-
+###youtube_username: "@mumyo_"
 
 timezone: Asia/Tokyo
 
