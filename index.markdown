@@ -4,3 +4,17 @@
 
 layout: home
 ---
+
+このサイトでは、梅本合同会社および関連企業の情報を掲載しています。
+
+音楽関係のお問い合わせのほか，商品の卸売，法人・個人のまとめ買い，公費・校費での購入をご希望の方も，お気軽にお問い合わせください。
+官公庁，高専機構，国立大学法人等につきましては，所定の条件でお支払いいただけます。
+
+
+<script>
+	window.fwSettings={
+	'widget_id':36000001437
+	};
+	!function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}() 
+</script>
+<script type='text/javascript' src='https://widget.freshworks.com/widgets/36000001437.js' async defer></script>
