@@ -37,17 +37,16 @@ permalink: /about-llc/
 
 ### 主な取引先
 - アマゾンジャパン合同会社 [(http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)][amazonseller]
-- Amazon Services International, Inc. (USA)
 - Tower Pro Pte Ltd. (中国) 
-- Tower Pro Pte Ltd. (シンガポール)
-- Adafruit Industries LLC (USA) 
 - Element14 Pte Ltd (Singapore)  
 - 教育機関、電子部品商社
 - 一般社団法人日本音楽著作権協会(JASRAC)
+- 放送局、音楽ホール指定管理者等
 
 ### 取引金融機関
 - りそな銀行九段支店
 - 福岡銀行東京支店
+- 三井住友銀行神田支店
 
 [mumyo]: https://mumyo.org/
 [yuriumemoto]: https://www.yuriumemoto.com/
