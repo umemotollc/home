@@ -40,7 +40,7 @@ minima:
   date_format: "%Y年%m月%d日"
 
 show_excerpts: false
-
+future: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
