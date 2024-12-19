@@ -1,5 +1,6 @@
-<html>
-  <head><title>Buy Ticket</title></head>
+----
+title: Buy Ticket
+----
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -10,4 +11,3 @@
 >
 </stripe-buy-button>
 
-</html>
