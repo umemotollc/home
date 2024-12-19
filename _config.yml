@@ -29,6 +29,7 @@ url: "https://home.umemoto.org" # the base hostname & protocol for your site, e.
 ###youtube_username: "@mumyo_"
 
 timezone: Asia/Tokyo
+future: false
 
 # Build settings
 theme: minima
@@ -40,7 +41,6 @@ minima:
   date_format: "%Y年%m月%d日"
 
 show_excerpts: false
-future: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
