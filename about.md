@@ -10,7 +10,7 @@ permalink: /about-llc/
 大口需要者向けの販売，卸売り，その他のご質問は、[問い合わせフォーム](/messageform)又は電子メールで desk@umemoto . org 宛にお願いいたします。
 
 ## 会社概要
-- **商号** 梅本合同会社 (Umemoto LLC)
+- **商号** 梅本合同会社 (UMEMOTO LLC)
 - **設立** 2014年12月26日
 - **本店** 東京都千代田区神田和泉町１番地６−１６　ヤマトビル４０５ (〒101-0024)
 - **ファクシミリ** 050-3606-2007 
@@ -38,9 +38,10 @@ permalink: /about-llc/
 ### 主な取引先
 - アマゾンジャパン合同会社 [(http://www.amazon.co.jp/gp/browse.html?me=A15GCPUKNCLGDU)][amazonseller]
 - Tower Pro Pte Ltd. (中国) 
-- Element14 Pte Ltd (Singapore)  
+- Farnell/Element14  
 - 教育機関、電子部品商社
 - 一般社団法人日本音楽著作権協会(JASRAC)
+- 株式会社KAJIMOTO
 - 放送局、音楽ホール指定管理者等
 
 ### 取引金融機関
