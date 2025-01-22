@@ -8,7 +8,7 @@ permalink: /ticket/
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            お使いのブラウザでJavaScriptが無効になっています。JavaScriptを使用せずに当社のチケットショップにアクセスするには、target="_blank" rel="noopener" href="https://ticket.umemoto.org/20250329/"をクリックしてください。
+            お使いのブラウザでJavaScriptが無効になっています。JavaScriptを使用せずに当社のチケットショップにアクセスするには、<a target="_blank" rel="noopener" href="https://ticket.umemoto.org/20250329/"> ここ </a>をクリックしてください。
         </div>
     </div>
 </noscript>
