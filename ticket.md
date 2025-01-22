@@ -27,6 +27,11 @@ layout: default
 #### チケットのキャンセル
 期限 2024-12-29 00:00:00。キャンセルには、キャンセル料（600円）が必要です。
 
+### 特定商取引法に基づく表示
+チケットは電子メールでお送りします。送料はかかりません。
+その他の条件は、[特定商取引法に基づく表示](/tokushoho)をご覧ください。
+
+<HR />
 
 <div class="pretix-widget-compat" event="https://ticket.umemoto.org/20250329/" single-item-select="button"></div>
 <noscript>
