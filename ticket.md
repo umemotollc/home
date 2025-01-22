@@ -1,10 +1,10 @@
 ---
 permalink: /ticket
 layout: page
-title: ticket チケット
+title: チケット
 ---
 
-
+## Yuri Umemoto "MASS" 
 
 - 主催 梅本佑利・梅本合同会社
 - 共催 両国門天ホール
