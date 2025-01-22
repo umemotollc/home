@@ -1,7 +1,10 @@
 ---
 permalink: /ticket
-layout: default
+layout: page
+title: ticket チケット
 ---
+
+
 
 - 主催 梅本佑利・梅本合同会社
 - 共催 両国門天ホール
