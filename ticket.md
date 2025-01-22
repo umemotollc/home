@@ -4,11 +4,11 @@ title: ticket
 permalink: /ticket/
 ---
 
-<pretix-widget event="https://ticket.umemoto.org/20250329/" single-item-select="button"></pretix-widget>
+<div class="pretix-widget-compat" event="https://ticket.umemoto.org/20250329/" single-item-select="button"></div>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            お使いのブラウザでJavaScriptが無効になっています。JavaScriptを使用せずに当社のチケットショップにアクセスするには、<a target="_blank" rel="noopener" href="https://ticket.umemoto.org/20250329/"> ここ </a>をクリックしてください。
-        </div>
+                JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://ticket.umemoto.org/20250329/">click here</a>.
+                </div>
     </div>
 </noscript>
